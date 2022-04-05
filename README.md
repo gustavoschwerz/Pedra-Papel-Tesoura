@@ -1,1 +1,1 @@
-<h3>Jogo pedra papel tesoura mostrando alguns conhecimentos adquiridos em java. </h3>
+<p> Jogo pedra papel tesoura mostrando alguns conhecimentos adquiridos em java. </p>
